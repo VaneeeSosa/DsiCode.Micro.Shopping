@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|c:\\users\\vsanc\\desktop\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\dsicode.shoppingcar.api\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89F749-3BCD-4F17-8066-F30C88C788EA}|Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCart.Api.csproj|solutionrelative:dsicode.shoppingcar.api\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Program.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:44.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\MappingConfig.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:41.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\appsettings.json",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T06:07:37.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackendApiAuthenticationHttpClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:33.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Services\\ProductService.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:30.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Services\\CouponService.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Services\\CouponService.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Services\\CouponService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:27.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\CartHeader.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\CartHeader.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\CartHeader.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\CartHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:18.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\CartDetails.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\CartDetails.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\CartDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:15.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:12.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:09.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:06.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CartHeaderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:03.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDto.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:07:00.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\vsanc\\Desktop\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDetailsDto.cs",
+              "RelativeToolTip": "Dsicode.ShoppingCar.Api\\Models\\Dto\\CartDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:06:56.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

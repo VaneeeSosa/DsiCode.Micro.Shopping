@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dsicode.ShoppingCart.Api.props" />
+</Project>

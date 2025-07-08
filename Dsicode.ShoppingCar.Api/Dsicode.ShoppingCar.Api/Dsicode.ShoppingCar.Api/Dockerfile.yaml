@@ -1,0 +1,20 @@
+﻿# Fase de construcción
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+WORKDIR /src
+
+# Copiar y restaurar dependencias
+COPY ["Dsicode.ShoppingCart.Api/Dsicode.ShoppingCart.Api.csproj", "Dsicode.ShoppingCart.Api/"]
+RUN dotnet restore "Dsicode.ShoppingCart.Api/Dsicode.ShoppingCart.Api.csproj"
+
+# Copiar el resto del código
+COPY . .
+WORKDIR "/src/Dsicode.ShoppingCart.Api"
+
+# Publicar la aplicación
+RUN dotnet publish "Dsicode.ShoppingCart.Api.csproj" -c Release -o /app/publish
+
+# Fase de ejecución
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS final
+WORKDIR /app
+COPY --from=build /app/publish .
+ENTRYPOINT ["dotnet", "Dsicode.ShoppingCart.Api.dll"]
